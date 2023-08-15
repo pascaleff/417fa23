@@ -1,0 +1,143 @@
+#+TITLE: Introduction to Abstract Algebra, Math 417, Fall 2023
+  
+* Basic information
+
+- *Official designation:* MATH 417 Sections D13 and D14.
+
+- *Lectures:* MWF 11:00--11:50am in 169 Davenport Hall.
+
+- *Instructor:* [[http://jpascale.pages.math.illinois.edu][James Pascaleff]]
+  + *Email:* [[mailto:jpascale@illinois.edu][jpascale@illinois.edu]]; *Office:* [[https://www.google.com/maps/place/805+W+Pennsylvania+Ave,+Urbana,+IL+61801/][805 W. Pennsylvania]], Room 306; *Phone:* (217) 244-7277.
+  + *Office hours:* TBD.
+
+- *Course website:* TBD.
+
+- *Canvas website:* TBD.
+  + Use this website to view grades and homework solutions.
+
+- *Prerequisites:* Either MATH 416 or one of ASRM 406, MATH 415 together with one of MATH 347, MATH 348, CS 374; or consent of instructor.
+
+- *Textbook:* Frederick M. Goodman, [[http://homepage.divms.uiowa.edu/~goodman/algebrabook.dir/book.2.6.pdf][/Algebra: Abstract and Concrete/]] version 2.6. This e-book is available free of charge: [[http://homepage.divms.uiowa.edu/~goodman/algebrabook.dir/algebrabook.html][website for the book.]]
+
+* Course outline
+
+- *Description:* This course is an introduction to the modern abstract
+  theory of algebra and algebraic structures. The primary focus is on
+  the theory of *groups*, which are "abstract groups of composable
+  transformations;" key examples include the symmetries of a geometric
+  figure, and the permutations of a set. Our focus is on constructing
+  groups, understanding their structure, and developing techniques for
+  classifying them.
+  At the end of the course we also begin the study of *rings and
+  fields*, which are "abstract number systems" in which there are
+  abstract versions of the four arithmetic operations: addition,
+  subtraction, multiplication, and (in the case of fields) division.
+
+- *Lectures:* Lectures will be held in person. Written notes for the
+  lectures will be made available. Please see the links in the
+  schedule below.
+
+- *Homework:* There will be 11 homework assignments whose due days
+  (usually Fridays) are listed in the schedule. Homework must be
+  submitted on paper in class. There is no homework due on weeks when
+  there is an exam.
+
+- *Exams:* There will be two midterm exams and a final exam. The
+  midterm exams will be held in class on *Friday, September 29* and
+  *Friday, November 3*. The final exam date and time are TBD.
+
+* Policies
+
+- *Assessment:* Grades will be based on homework (25%), two midterm
+  exams (22% each), and the final exam (31%). The two lowest homework
+  scores will be dropped. Grade cutoffs will never be stricter than
+  90% for an A- grade, 80% for a B-, and so on. Individual exams may
+  have grade cutoffs set more generously depending on their
+  difficulty.
+
+- *Homework assignments* should be submitted *on paper in class* on
+  the due date. If you are unable to come to class, you may turn in
+  your homework to *James Pascaleff's mailbox in 250 Altgeld Hall.*
+  This mailbox will be checked at Noon on the due date, so you
+  should have your homework in the box by that time.
+
+- *Late homework* will not be accepted, but the lowest two scores are
+  dropped, so you may miss one or two assignments without penalty.
+
+- *Missed exams:* If you need to miss an exam (for reasons such as
+  illness, accident, or family crisis), please let the instructor know
+  as soon as possible, so that arrangements can be made.
+
+- *Collaboration and Academic Integrity:* For homework assignments,
+  collaboration is permitted and expected, but you must write up your
+  solutions individually and understand them completely. On exams, no
+  collaboration is permitted.
+
+- *Disability accommodations:* Students who require special
+  accommodations should contact the instructor as soon as
+  possible. Any accommodations on exams must be requested at least one
+  week in advance and will require a letter from DRES.
+
+* Schedule
+  - *Week 1:* August 21--25
+    - [[file:notes/417lecture01.pdf][Symmetries.]] [§§ 1.1--1.4, 1.10]
+    - [[file:notes/417lecture02.pdf][Permutations.]] [§ 1.5]
+  - *Week 2:* August 28--September 1
+    - [[file:notes/417lecture03.pdf][Integer arithmetic.]] [§ 1.6]
+    - [[file:notes/417lecture04.pdf][Primes, modular arithmetic.]] [§§ 1.6--1.7]
+    - [[file:hw/hw01.pdf][Homework 1]] due Friday, September 1.
+  - *Week 3:* September 4--8
+    - *No Class* on Labor Day, Monday, September 4.
+    - [[file:notes/417lecture05.pdf][More modular arithmetic, basic group properties.]] [§§ 1.7, 2.1]
+    - [[file:hw/hw02.pdf][Homework 2]] due Friday, September 4.
+  - *Week 4:* September 11--15                  
+    - [[file:notes/417lecture06.pdf][Subgroups, isomorphisms, Cayley's theorem.]] [§ 2.2]
+    - [[file:notes/417lecture07.pdf][Cyclic groups.]] [§ 2.2]
+    - [[file:hw/hw03.pdf][Homework 3]] due Friday, September 15.
+  - *Week 5:* September 18--22
+    - [[file:notes/417lecture08.pdf][Subgroups of cyclic groups, dihedral groups.]] [§§ 2.2--2.3]
+    - [[file:hw/hw04.pdf][Homework 4]] due Friday, September 22. 
+  - *Week 6:* September 25--29
+    - [[file:notes/417lecture09.pdf][Homomorphisms and kernels.]] [§ 2.4]
+    - [[file:notes/417lecture10.pdf][Cosets and Lagrange's theorem.]] [§ 2.5]
+    - *Exam 1:* Friday, September 29, covering weeks 1--5.
+  - *Week 7:* October 2--6
+    - [[file:notes/417lecture11.pdf][Equivalence relations and partitions.]] [§ 2.6]
+    - [[file:notes/417lecture12.pdf][More on equivalence relations.]] [§ 2.6]
+    - [[file:hw/hw05.pdf][Homework 5]] due Friday, October 6. 
+  - *Week 8:* October 9--13
+    - [[file:notes/417lecture13.pdf][Quotient groups and homomorphisms.]] [§ 2.7]
+    - [[file:notes/417lecture14.pdf][Isomorphism theorems.]] [§ 2.7]
+    - [[file:hw/hw06.pdf][Homework 6]] due Friday, October 13.
+  - *Week 9:* October 16--20
+    - [[file:notes/417lecture15.pdf][Diamond isomorphism, direct products of groups.]] [§§ 2.7, 3.1]
+    - [[file:notes/417lecture16.pdf][Semi-direct products.]] [§ 3.2]
+    - [[file:hw/hw07.pdf][Homework 7]] due Friday, October 20.
+  - *Week 10:* October 23--27
+    - [[file:notes/417lecture17.pdf][Examples of semi-direct products, group actions.]] [§§ 3.2, 5.1]
+    - [[file:notes/417lecture18.pdf][Orbit-stabilizer theorem.]] [§ 5.1]
+    - [[file:hw/hw08.pdf][Homework 8]] due.
+  - *Week 11:* October 30--November 3
+    - [[file:notes/417lecture19.pdf][Burnside/Cauchy-Frobenius lemma.]] [§ 5.2]
+    - [[file:notes/417lecture20.pdf][Class equation and applications.]] [§ 5.4]
+    - *Exam 2:* Friday, November 3, covering weeks 6--10.
+  - *Week 12:* November 6--10
+    - [[file:notes/417lecture21.pdf][Sylow theorems and applications.]] [§ 5.4]
+    - [[file:notes/417lecture22.pdf][Proofs of Sylow theorems.]] [§ 5.4]
+    - [[file:hw/hw09.pdf][Homework 9]] due Friday, November 10.
+  - *Week 13:* November 13--17
+    - [[file:notes/417lecture23.pdf][Introduction to rings and fields.]] [§§ 1.11, 6.1]
+    - [[file:notes/417lecture24.pdf][Polynomial rings over fields.]] [§ 1.8]
+    - [[file:hw/hw10.pdf][Homework 10]] due Friday, November 17.
+  - *Week 14:* November 20--24
+    - *Fall Break, No Class.*
+  - *Week 15:* November 27--December 1
+    - [[file:notes/417lecture25.pdf][Ring homomorphisms and ideals.]] [§ 6.2]
+    - [[file:notes/417lecture26.pdf][Quotient rings, homomorphism theorem for rings.]] [§ 6.3]
+  - *Week 16:* December 4--8
+    - [[file:notes/417lecture27.pdf][Maximal and prime ideals, integral domains.]] [§ 6.4]
+    - [[file:hw/hw11.pdf][Homework 11]] due Wednesday December 6.
+  - *Final Exam:* Date and time TBD.
+
+  
+
