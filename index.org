@@ -79,6 +79,7 @@
   week in advance and will require a letter from DRES.
 
 * Schedule
+
   - *Week 1:* August 21--25
     - [[file:notes/417lecture01.pdf][Symmetries.]] [§§ 1.1--1.4, 1.10]
     - [[file:notes/417lecture02.pdf][Permutations.]] [§ 1.5]
