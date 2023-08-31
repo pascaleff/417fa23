@@ -10,9 +10,9 @@
   + *Email:* [[mailto:jpascale@illinois.edu][jpascale@illinois.edu]]; *Office:* [[https://www.google.com/maps/place/805+W+Pennsylvania+Ave,+Urbana,+IL+61801/][805 W. Pennsylvania]], Room 306; *Phone:* (217) 244-7277.
   + *Office hours:* Wednesdays and Thursdays 3:00--4:00pm. Temporary location: Espresso Royale at Oregon & Goodwin.
 
-- *Course website:* [[https://pascaleff.github.io/417fa23/][pascaleff.github.io/417fa23/]]
+- *Course website:* [[https://pascaleff.github.io/417fa23][pascaleff.github.io/417fa23]]
 
-- *Canvas website:* TBD.
+- *Canvas website:* [[https://canvas.illinois.edu/courses/39798][canvas.illinois.edu/courses/39798]]
   + Use this website to view grades and homework solutions.
 
 - *Prerequisites:* Either MATH 416 or one of ASRM 406, MATH 415 together with one of MATH 347, MATH 348, CS 374; or consent of instructor.
