@@ -89,7 +89,7 @@
   - *Week 3:* September 4--8
     - *No Class* on Labor Day, Monday, September 4.
     - [[file:notes/417lecture05.pdf][More modular arithmetic, basic group properties]] [§§ 1.7, 2.1]
-    - [[file:hw/hw02.pdf][Homework 2]] due Friday, September 4.
+    - [[file:hw/hw02.pdf][Homework 2]] due Friday, September 8.
   - *Week 4:* September 11--15                  
     - [[file:notes/417lecture06.pdf][Subgroups, isomorphisms, Cayley's theorem]] [§ 2.2]
     - [[file:notes/417lecture07.pdf][Cyclic groups]] [§ 2.2]
