@@ -122,7 +122,12 @@
   - *Week 11:* October 30--November 3
     - [[file:notes/417lecture19.pdf][Burnside/Cauchy-Frobenius lemma]] [§ 5.2]
     - [[file:notes/417lecture20.pdf][Class equation and applications]] [§ 5.4]
-    - *Exam 2:* Friday, November 3, covering weeks 6--10.
+    - *Exam 2:* Friday, November 3, covering material up to and including direct products. 
+    - *Review materials for Exam 2*:
+      - [[file:notes/quotient-groups.pdf][Homomorphisms, Cosets, and Quotient Groups]]
+      - [[file:notes/isomorphism-theorems.pdf][Isomorphism Theorems]]
+      - [[file:notes/examples.pdf][Examples of Groups]]
+      - [[file:notes/exam2-practice.pdf][Some practice problems]]
   - *Week 12:* November 6--10
     - [[file:notes/417lecture21.pdf][Sylow theorems and applications]] [§ 5.4]
     - [[file:notes/417lecture22.pdf][Proofs of Sylow theorems]] [§ 5.4]
