@@ -46,7 +46,7 @@
 
 - *Exams:* There will be two midterm exams and a final exam. The
   midterm exams will be held in class on *Friday, September 29* and
-  *Friday, November 3*. The final exam date and time are TBD.
+  *Friday, November 3*. The final exam will be held *Wednesday, December 13, 8:00--11:00am in 169 Davenport Hall*.
 
 * Policies
 
@@ -144,8 +144,8 @@
     - [[file:hw/extra-credit.pdf][Extra Credit Assignment]] due Friday, December 1.
   - *Week 16:* December 4--8
     - [[file:notes/417lecture27.pdf][Maximal and prime ideals, integral domains]] [§ 6.4]
-    - [[file:hw/hw11.pdf][Homework 11]] due Wednesday December 6.
-  - *Final Exam:* Date and time TBD.
+    - [[file:hw/hw11.pdf][Homework 11]] due Wednesday, December 6.
+  - *Final Exam:* Wednesday, December 13, 8:00--11:00am in 169 Davenport Hall.
 
   
 
