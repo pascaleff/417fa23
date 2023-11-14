@@ -141,6 +141,7 @@
   - *Week 15:* November 27--December 1
     - [[file:notes/417lecture25.pdf][Ring homomorphisms and ideals]] [§ 6.2]
     - [[file:notes/417lecture26.pdf][Quotient rings, homomorphism theorem for rings]] [§ 6.3]
+    - [[file:hw/extra-credit.pdf][Extra Credit Assignment]] due Friday, December 1.
   - *Week 16:* December 4--8
     - [[file:notes/417lecture27.pdf][Maximal and prime ideals, integral domains]] [§ 6.4]
     - [[file:hw/hw11.pdf][Homework 11]] due Wednesday December 6.
