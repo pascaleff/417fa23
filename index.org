@@ -133,17 +133,17 @@
     - [[file:notes/417lecture22.pdf][Proofs of Sylow theorems]] [§ 5.4]
     - [[file:hw/hw09.pdf][Homework 9]] due Friday, November 10.
   - *Week 13:* November 13--17
-    - [[file:notes/417lecture23.pdf][Introduction to rings and fields]] [§§ 1.11, 6.1]
-    - [[file:notes/417lecture24.pdf][Polynomial rings over fields]] [§ 1.8]
+    - +[[file:notes/417lecture23.pdf][Introduction to rings and fields]]+[§§ 1.11, 6.1]
+    - +[[file:notes/417lecture24.pdf][Polynomial rings over fields]]+ [§ 1.8]
     - [[file:hw/hw10.pdf][Homework 10]] due Friday, November 17.
   - *Week 14:* November 20--24
     - *Fall Break, No Class.*
   - *Week 15:* November 27--December 1
-    - [[file:notes/417lecture25.pdf][Ring homomorphisms and ideals]] [§ 6.2]
-    - [[file:notes/417lecture26.pdf][Quotient rings, homomorphism theorem for rings]] [§ 6.3]
+    - +[[file:notes/417lecture25.pdf][Ring homomorphisms and ideals]]+ [§ 6.2]
+    - +[[file:notes/417lecture26.pdf][Quotient rings, homomorphism theorem for rings]]+ [§ 6.3]
     - [[file:hw/extra-credit.pdf][Extra Credit Assignment]] due Friday, December 1.
   - *Week 16:* December 4--8
-    - [[file:notes/417lecture27.pdf][Maximal and prime ideals, integral domains]] [§ 6.4]
+    - +[[file:notes/417lecture27.pdf][Maximal and prime ideals, integral domains]]+ [§ 6.4]
     - [[file:hw/hw11.pdf][Homework 11]] due Wednesday, December 6.
   - *Final Exam:* Wednesday, December 13, 8:00--11:00am in 169 Davenport Hall.
 
