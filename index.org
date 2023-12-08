@@ -146,6 +146,7 @@
     - +[[file:notes/417lecture27.pdf][Maximal and prime ideals, integral domains]]+ [§ 6.4]
     - [[file:hw/hw11.pdf][Homework 11]] due Wednesday, December 6.
   - *Final Exam:* Wednesday, December 13, 8:00--11:00am in 169 Davenport Hall.
-
+    - The exam covers material up through "Proofs of Sylow Theorems" (nothing on rings or Chapter 6 of the textbook.)
+    - [[file:notes/final-exam-practice.pdf][Some practice problems]].
   
 
